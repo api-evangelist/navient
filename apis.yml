@@ -21,6 +21,11 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/navient.png
 tags:
   - Student Loans
+  - Financial-Services
+  - Loan Servicing
+  - Fortune 500
+tags_raw:
+  - Student Loans
   - Financial Services
   - Loan Servicing
   - Fortune 500
