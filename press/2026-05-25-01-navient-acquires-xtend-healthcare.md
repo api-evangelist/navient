@@ -1,7 +1,9 @@
 ---
 title: Navient Acquires Xtend Healthcare
 url: https://www.wilmerhale.com/en/insights/news/navient-acquires-xtend-healthcare
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Navient" press release artificial intelligence'
 position: 1
 source: serpapi-google

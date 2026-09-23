@@ -1,7 +1,9 @@
 ---
 title: Notified Public Relations Solutions
 url: https://insight.notified.com/hubfs/NF%20Whitepapers/Fact%20Sheets/PR-Product%20Sheet-PR%20Cloud-1.pdf?mobile=1
-date: '2026-05-25'
+published: ''
+date_basis: harvested
+harvested: '2026-05-25'
 query: '"Navient" press release artificial intelligence'
 position: 5
 source: serpapi-google
