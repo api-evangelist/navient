@@ -32,7 +32,7 @@ accessModel:
 image: https://kinlane-images.s3.amazonaws.com/shared/apis-json/icons/navient.png
 tags:
   - Student Loans
-  - Financial-Services
+  - Financial Services
   - Loan Servicing
   - Fortune 500
 tags_raw:
@@ -40,6 +40,7 @@ tags_raw:
   - Financial Services
   - Loan Servicing
   - Fortune 500
+  - Financial-Services
 url: https://raw.githubusercontent.com/api-evangelist/navient/refs/heads/main/apis.yml
 created: '2026-03-24'
 modified: '2026-05-02'
